@@ -43,8 +43,8 @@
 ![EXP6 1 1](https://github.com/priyadharshini225/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849213/1e01a938-5da7-4fd3-8379-340a76d1deec)
 
 
-### Name:PRIYADHARSHINI S
-### Register Number:212223240129
+### Name:Rahul.v
+### Register Number:212223240133
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
